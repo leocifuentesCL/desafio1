@@ -40,8 +40,3 @@ const App = () => {
   )
 }
 export default App
-
-//Hola profe. Lamentablemente nunca me funcionó el Badge Bootstrap. Intenté de todo,
-// vi las clases varias veces y no hubo caso. Tengo todo escrito importado y exportado para que
-// funcione, pero ni siquiera me funcionó haciendo COPY PASTE al ejercicio 4 de la guía
-// de estudios de autoaprendizaje. No tengo idea qué pasó ni qué pasa. Gracias.

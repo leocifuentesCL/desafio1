@@ -1,9 +1,9 @@
 import Badge from "react-bootstrap/Badge";
 
-export const Tags = ({ color, raza }) => {
+export const Tags = ({ color, texto }) => {
     return (
     <>
-    <Badge bg={color}>{raza}</Badge>
+    <Badge bg={color}>{texto}</Badge>
     </>
   );
 };
